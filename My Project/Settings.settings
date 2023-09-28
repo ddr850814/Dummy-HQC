@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="note" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Do Not Cut Hole In Pipe</Value>
+    </Setting>
+    <Setting Name="ReportingRequirement" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="ReportingType" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="text" Type="System.String" Scope="User">
+      <Value Profile="(Default)">茅轴Tinker</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
